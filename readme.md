@@ -17,13 +17,7 @@ sudo apt install vim -y
 - Una vez instalado, verifica la versión de Vim para asegurarte de que está funcionando:
 
 ```
-Una vez instalado, verifica la versión de Vim para asegurarte dvim --version
-```
-
-- Una vez instalado, verifica la versión de Vim para asegurarte de que está funcionando:
-
-```
-sd
+vim --version
 ```
 
 - Puedes abrir Vim simplemente escribiendo:
