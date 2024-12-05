@@ -1,6 +1,6 @@
 :)
 
-# intalar Vmi en Ubuntu
+# instalar Vim en Ubuntu
 
 - Antes de instalar, es una buena práctica asegurarte de que tu sistema esté actualizado:
 
