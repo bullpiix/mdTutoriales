@@ -20,5 +20,5 @@ keycode 32 = p
 
 ```
 xmodmap ~/.Xmodmap
-ebd
+
 ```
