@@ -1,6 +1,6 @@
 :)
 
-# compilPython
+# compilar en ubunto Python
 
 - Crea un entorno virtual en un directorio específico:
 
