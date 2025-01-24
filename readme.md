@@ -1,5 +1,8 @@
 :)
-
+- comando extra para grabar la pantalla :
+```
+  ffmpeg -video_size 1920x1080 -framerate 30 -f x11grab -i :1.0+0,0 record_d.mp4
+```
 # como gravar audio del sistema Ubuntu
 
 - Si no tienes pw-record instalado (la herramienta de grabación de PipeWire), instálalo con:
