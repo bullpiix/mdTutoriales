@@ -1,4 +1,7 @@
-:)
+:) vidoe -> imagenes :
+```
+ffmpeg -i video.mp4 fotograma_%04d.jpg
+```
 
 # ffmpeg para Ubuntu
 
