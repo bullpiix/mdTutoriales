@@ -1,6 +1,6 @@
 :) vidoe -> imagenes :
 ```
-ffmpeg -i video.mp4 fotograma_%04d.jpg
+ffmpeg -i video.mp4 -vf fps=24 fotograma_%04d.jpg
 ```
 
 # ffmpeg para Ubuntu
