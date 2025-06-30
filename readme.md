@@ -22,3 +22,10 @@ keycode 32 = p
 xmodmap ~/.Xmodmap
 
 ```
+- guardar recargar teclas por defecto :
+
+```
+xmodmap ~/.Xmodmap.original
+
+
+```
