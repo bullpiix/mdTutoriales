@@ -15,7 +15,11 @@ xev | grep key
 keycode 32 = p
 
 ```
+- desabiliar  ~/.Xmodmap
 
+```
+setxkbmap
+```
 - guardar los cambios con el comando :
 
 ```
